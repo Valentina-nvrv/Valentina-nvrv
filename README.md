@@ -13,16 +13,16 @@
 
 <p align="center">
 ✨ Bienvenida a mi espacio en GitHub ✨ <br>
-Me gusta crear soluciones y funcionales usando <b>Java</b>, <b>Spring Boot</b> y <b>APIs REST</b> 💻🌷
+Me gusta crear soluciones funcionales usando <b>Java</b>, <b>Spring Boot</b> y <b>APIs REST</b> 💻🌷
 </p>
 
 <!-- Divider -->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-## <picture><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajdtdHdqYXFjMG5sdGFhbDUyYWFoaGt5MWNpaGRndnE3ZGU5MGE0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/citBl9yPwnUOs/giphy.gif" width=50px></picture> Sobre mí
+## <picture><img src="https://media.giphy.com/media/citBl9yPwnUOs/giphy.gif" width=50px></picture> Sobre mí
 
 <picture> 
-  <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGI5c3Zic2c3ZnFzdmI4dXE0eWpyZHg3Z2YwNnNuYjFvMnpoZWVtNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.gif" width=250px>
+  <img align="right" src="[https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ201d2I0ZWpseThod2ZmcjJjaXUyZTIydWRpZ2RtcDRmajhiYXJnNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif)" width=250px>
 </picture>
 
 - 📍 Vivo en **Sevilla, España**  
@@ -38,59 +38,59 @@ Me gusta crear soluciones y funcionales usando <b>Java</b>, <b>Spring Boot</b> y
 ## 🛠️ Habilidades
 
 ### 💻 Programación y Desarrollo
-![Java](https://img.shields.io/badge/-Java-ff69b4?logo=java&logoColor=007396)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-ff69b4?logo=springboot)
-![Hibernate](https://img.shields.io/badge/-Hibernate-ffc0cb?logo=hibernate)
-![Jakarta EE](https://img.shields.io/badge/-Jakarta%20EE-ffc0cb?logo=jakartaee)
-![REST API](https://img.shields.io/badge/-REST%20API-ffc0cb?logo=swagger)
-![JavaScript](https://img.shields.io/badge/-JavaScript-ffb6c1?logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-ffc0cb?logo=typescript)
-![Angular](https://img.shields.io/badge/-Angular-ffc0cb?logo=angular)
-![Node.js](https://img.shields.io/badge/-Node.js-ffc0cb?logo=node.js)
-![Python](https://img.shields.io/badge/-Python-ffc0cb?logo=python)
-![C#](https://img.shields.io/badge/-C%23-ffc0cb?logo=csharp)
-![Unity](https://img.shields.io/badge/-Unity-ffc0cb?logo=unity)
-![HTML5](https://img.shields.io/badge/-HTML5-ffc0cb?logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-ffc0cb?logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-ffc0cb?logo=bootstrap)
-![WordPress](https://img.shields.io/badge/-WordPress-ffc0cb?logo=wordpress)
-![.NET](https://img.shields.io/badge/-.NET-ffc0cb?logo=dotnet)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![Jakarta EE](https://img.shields.io/badge/Jakarta%20EE-E34F26?style=flat-square&logo=java&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-85EA2D?style=flat-square&logo=swagger&logoColor=000000)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
 ### 🗄️ Bases de Datos y Herramientas
-![MySQL](https://img.shields.io/badge/-MySQL-ff69b4?logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-ff69b4?logo=postgresql)
-![MariaDB](https://img.shields.io/badge/-MariaDB-ffc0cb?logo=mariadb)
-![Oracle](https://img.shields.io/badge/-Oracle-ffc0cb?logo=oracle)
-![MongoDB](https://img.shields.io/badge/-MongoDB-ffc0cb?logo=mongodb)
-![Firebase](https://img.shields.io/badge/-Firebase-ffc0cb?logo=firebase)
-![Git](https://img.shields.io/badge/-Git-ffc0cb?logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-ffc0cb?logo=github)
-![Maven](https://img.shields.io/badge/-Maven-ffc0cb?logo=apachemaven)
-![Eclipse](https://img.shields.io/badge/-Eclipse-ffc0cb?logo=eclipseide)
-![VS Code](https://img.shields.io/badge/-VS%20Code-ffc0cb?logo=visualstudiocode)
-![AWS](https://img.shields.io/badge/-AWS-ffc0cb?logo=amazonaws)
-![Azure](https://img.shields.io/badge/-Azure-ffc0cb?logo=microsoftazure)
-![Linux](https://img.shields.io/badge/-Linux-ffc0cb?logo=linux)
-![Windows](https://img.shields.io/badge/-Windows-ffc0cb?logo=windows)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 
-### 🎨 Diseño y UI/UX
-![Canva](https://img.shields.io/badge/-Canva-ffc0cb?logo=canva)
-![Photoshop](https://img.shields.io/badge/-Photoshop-ffc0cb?logo=adobephotoshop)
-![Illustrator](https://img.shields.io/badge/-Illustrator-ffc0cb?logo=adobeillustrator)
-![Figma](https://img.shields.io/badge/-Figma-ffc0cb?logo=figma)
+### 🎨 Diseño y UX/UI
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ---
 
 ## 🌍 Idiomas
 - 🇪🇸 Español — **Nativo**  
-- 🇬🇧 Inglés — **B1 - B2** (lectura técnica)
+- 🇬🇧 Inglés — **B1 - B2** 
 
 ---
 
 ## 📞 Contacto
 - 📧 **rojasvillavalentina01@gmail.com**    
 - 💼 Linkedin: [Nicol Rojas](https://www.linkedin.com/in/nicol-rojas)  
-- 🐱 GitHub: [nicol-rojas](https://github.com/nicol-rojas)  
+
+---
+
+## 📊 Estadísticas GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nicol-rojas&show_icons=true&theme=tokyonight" alt="Estadísticas de Nicol" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicol-rojas&layout=compact&theme=tokyonight" alt="Lenguajes más usados" height="150"/>
+</p>
 
 ---
 
@@ -101,9 +101,6 @@ Me gusta crear soluciones y funcionales usando <b>Java</b>, <b>Spring Boot</b> y
   📧 reginofernandezgarcia@gmail.com  
 
 ---
-
-<!-- Snake Animation -->
-![Snake animation](https://raw.githubusercontent.com/nicol-rojas/nicol-rojas/output/github-contribution-grid-snake-dark.svg)
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/nicol-rojas/count.svg" />
