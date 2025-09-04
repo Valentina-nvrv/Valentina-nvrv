@@ -4,7 +4,7 @@
 <!--h1-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">🌸 Hola, soy Nicol Rojas 🌸</h1></summary>
+    <summary><h1 style="display: inline-block">🌸 Hola, soy Nicol Valentina Rojas 🌸</h1></summary>
   </ul>
 </div>
 
@@ -29,7 +29,7 @@ Me gusta crear soluciones y funcionales usando <b>Java</b>, <b>Spring Boot</b> y
 - 🎓 Estudiante de **Desarrollo de Aplicaciones Web**  
 - 💻 Apasionada por el desarrollo con **Java, Spring Boot y APIs REST**  
 - 🌱 Actualmente sigo aprendiendo frameworks modernos y bases de datos  
-- 📚 Nivel de inglés **B1 - B2** (lectura de documentación técnica sin problema)  
+- 📚 Nivel de inglés **B1 - B2**
 - ✨ Me caracterizo por mi **proactividad, trabajo en equipo y aprendizaje rápido**  
 - 🚀 Buscando oportunidades como **Desarrolladora Junior Java**
 
