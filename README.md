@@ -13,7 +13,7 @@
 
 <p align="center">
 ✨ Bienvenida a mi espacio en GitHub ✨ <br>
-Me gusta crear soluciones bonitas y funcionales usando <b>Java</b>, <b>Spring Boot</b> y <b>APIs REST</b> 💻🌷
+Me gusta crear soluciones y funcionales usando <b>Java</b>, <b>Spring Boot</b> y <b>APIs REST</b> 💻🌷
 </p>
 
 <!-- Divider -->
