@@ -75,8 +75,9 @@ Me gusta crear soluciones funcionales usando <b>Java</b>, <b>Spring Boot</b> y <
 ---
 
 ## 🌍 Idiomas
-- 🇪🇸 Español — **Nativo**  
-- 🇬🇧 Inglés — **B1 - B2** 
+- Español — **Nativo**  
+- Inglés — **B1 - B2**
+- Francés — **A-2**
 
 ---
 
@@ -103,7 +104,7 @@ Me gusta crear soluciones funcionales usando <b>Java</b>, <b>Spring Boot</b> y <
 ---
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Valentina-nvrv/count.svg" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Valentina-nvrv&theme=tokyonight&margin-w=15&no-frame=true" />
 </p>
 
 <!-- Divider -->
