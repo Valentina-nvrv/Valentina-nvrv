@@ -26,7 +26,7 @@ Me gusta crear soluciones funcionales usando <b>Java</b>, <b>Spring Boot</b> y <
 </picture>
 
 - 📍 Vivo en **Sevilla, España**  
-- 🎓 Estudiante de **Desarrollo de Aplicaciones Web**  
+- 🎓 Graduada en **Desarrollo de Aplicaciones Web** y **  ** Animación 2d y 3d, videojuegos y entornos interactivos **
 - 💻 Apasionada por el desarrollo con **Java, Spring Boot y APIs REST**  
 - 🌱 Actualmente sigo aprendiendo frameworks modernos y bases de datos  
 - 📚 Nivel de inglés **B1 - B2**
