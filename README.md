@@ -77,8 +77,7 @@ Me gusta crear soluciones funcionales usando <b>Java</b>, <b>Spring Boot</b> y <
 ## 🌍 Idiomas
 - Español — **Nativo**  
 - Inglés — **B1 - B2**
-- Francés — **A-2**
-
+  
 ---
 
 ## 📞 Contacto
@@ -104,7 +103,7 @@ Me gusta crear soluciones funcionales usando <b>Java</b>, <b>Spring Boot</b> y <
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Valentina-nvrv&theme=tokyonight&margin-w=15&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Valentina-nvrv&theme=tokyonight&margin-w=15&no-frame=true&columns=3" />
 </p>
 
 <!-- Divider -->
