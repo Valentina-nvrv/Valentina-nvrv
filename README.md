@@ -12,7 +12,7 @@
 <h2 align="center">☕ Desarrolladora Junior Java ☕</h2>
 
 <p align="center">
-✨ Bienvenida a mi espacio en GitHub ✨ <br>
+✨ Bienvenidos a mi espacio en GitHub ✨ <br>
 Me gusta crear soluciones funcionales usando <b>Java</b>, <b>Spring Boot</b> y <b>APIs REST</b> 💻🌷
 </p>
 
@@ -103,7 +103,7 @@ Me gusta crear soluciones funcionales usando <b>Java</b>, <b>Spring Boot</b> y <
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Valentina-nvrv&theme=tokyonight&margin-w=15&no-frame=true&columns=3" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Valentina-nvrv&theme=tokyonight&margin-w=15&no-frame=true&columns=3"/>
 </p>
 
 <!-- Divider -->
