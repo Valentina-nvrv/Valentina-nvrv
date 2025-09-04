@@ -22,7 +22,7 @@ Me gusta crear soluciones funcionales usando <b>Java</b>, <b>Spring Boot</b> y <
 ## <picture><img src="https://media.giphy.com/media/citBl9yPwnUOs/giphy.gif" width=50px></picture> Sobre mí
 
 <picture> 
-  <img align="right" src="[https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ201d2I0ZWpseThod2ZmcjJjaXUyZTIydWRpZ2RtcDRmajhiYXJnNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif)" width=250px>
+  <img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ201d2I0ZWpseThod2ZmcjJjaXUyZTIydWRpZ2RtcDRmajhiYXJnNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" width=250px>
 </picture>
 
 - 📍 Vivo en **Sevilla, España**  
@@ -88,8 +88,8 @@ Me gusta crear soluciones funcionales usando <b>Java</b>, <b>Spring Boot</b> y <
 
 ## 📊 Estadísticas GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nicol-rojas&show_icons=true&theme=tokyonight" alt="Estadísticas de Nicol" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicol-rojas&layout=compact&theme=tokyonight" alt="Lenguajes más usados" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Valentina-nvrv&show_icons=true&theme=tokyonight" alt="Estadísticas de Nicol" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valentina-nvrv&layout=compact&theme=tokyonight" alt="Lenguajes más usados" height="150"/>
 </p>
 
 ---
