@@ -103,7 +103,7 @@ Me gusta crear soluciones funcionales usando <b>Java</b>, <b>Spring Boot</b> y <
 ---
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/nicol-rojas/count.svg" />
+  <img src="https://profile-counter.glitch.me/Valentina-nvrv/count.svg" />
 </p>
 
 <!-- Divider -->
