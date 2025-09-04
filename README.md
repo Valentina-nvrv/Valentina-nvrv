@@ -9,7 +9,7 @@
 </div>
 
 <!-- Subtitulo -->
-<h2 align="center">☕ Desarrolladora Junior Java ☕</h2>
+<h2 align="center">☕ Desarrolladora junior ☕</h2>
 
 <p align="center">
 ✨ Bienvenidos a mi espacio en GitHub ✨ <br>
@@ -31,7 +31,7 @@ Me gusta crear soluciones funcionales usando <b>Java</b>, <b>Spring Boot</b> y <
 - 🌱 Actualmente sigo aprendiendo frameworks modernos y bases de datos  
 - 📚 Nivel de inglés **B1 - B2**
 - ✨ Me caracterizo por mi **proactividad, trabajo en equipo y aprendizaje rápido**  
-- 🚀 Buscando oportunidades como **Desarrolladora Junior Java**
+- 🚀 Buscando oportunidades como **Desarrolladora Junior**
 
 ---
 
