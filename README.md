@@ -82,14 +82,6 @@ Experiencia en APIs REST, procesamiento de datos ETL y despliegue en AWS 💻�
 
 ---
 
-## 📊 Estadísticas GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Valentina-nvrv&show_icons=true&theme=tokyonight" alt="Estadísticas de Nicol" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valentina-nvrv&layout=compact&theme=tokyonight" alt="Lenguajes más usados" height="150"/>
-</p>
-
----
-
 ## 📌 Otros
 - 📜 Certificación en **Metodología Ágil Scrum**
 - ⚡ Disponibilidad inmediata
