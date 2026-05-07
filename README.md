@@ -2,7 +2,7 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">🌸 Hola, soy Nicol Valentina Rojas 🌸</h1></summary>
+    <summary><h1 style="display: inline-block">🌸 Hola, soy Nicol Rojas 🌸</h1></summary>
   </ul>
 </div>
 
@@ -10,8 +10,8 @@
 
 <p align="center">
 ✨ Bienvenidos a mi espacio en GitHub ✨ <br>
-Especializada en <b>Backend (Java/Spring Boot)</b> y <b>Frontend (Angular)</b>. <br>
-Enfocada en código limpio, escalabilidad y despliegue en la nube 💻🌷
+Especializada en <b>Backend (Java / Spring Boot)</b> y <b>Frontend (Angular)</b>. <br>
+Experiencia en APIs REST, procesamiento de datos ETL y despliegue en AWS 💻🌷
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -22,13 +22,15 @@ Enfocada en código limpio, escalabilidad y despliegue en la nube 💻🌷
   <img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ201d2I0ZWpseThod2ZmcjJjaXUyZTIydWRpZ2RtcDRmajhiYXJnNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" width=250px>
 </picture>
 
-- [cite_start]📍 Vivo en **Sevilla, España** [cite: 38]
-- [cite_start]🎓 Graduada en **Desarrollo de Aplicaciones Web** (Altair) [cite: 58, 59] [cite_start]y **Animación 3D, Juegos y Entornos Interactivos** (Ilerna) [cite: 59]
-- [cite_start]💻 Experiencia en desarrollo de **APIs REST**, gestión de roles y procesamiento de datos **ETL** [cite: 51, 52, 53]
-- [cite_start]☁️ Conocimientos en despliegue y optimización en entornos **AWS** [cite: 54]
-- [cite_start]📚 Inglés: **Competencia técnica** [cite: 70]
-- [cite_start]✨ Me caracterizo por mi **inteligencia emocional, capacidad de aprendizaje y autogestión** [cite: 64]
-- [cite_start]🚀 Actualmente trabajando como **Profesora particular de programación** y buscando nuevas oportunidades como **Dev Junior** [cite: 44]
+- 📍 Vivo en **San Juan de aznalfarache, Sevilla, España**
+- 🎓 Graduada en **Desarrollo de Aplicaciones Web** (Altair)
+- 🎮 Formación en **Animación 3D, Juegos y Entornos Interactivos** (Ilerna)
+- 💻 Experiencia desarrollando **APIs REST**, gestión de usuarios y procesamiento de datos **ETL**
+- ☁️ Conocimientos en despliegue y optimización de aplicaciones en **AWS**
+- 🎨 Experiencia en **UI/UX** y maquetación frontend
+- 📚 Inglés técnico
+- ✨ Me caracterizo por mi capacidad de aprendizaje, autogestión e inteligencia emocional
+- 🚀 Actualmente buscando oportunidades como **Backend / Fullstack Developer Junior**
 
 ---
 
@@ -49,14 +51,34 @@ Enfocada en código limpio, escalabilidad y despliegue en la nube 💻🌷
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ### 🎨 Diseño y UX/UI
-![UI/UX](https://img.shields.io/badge/UI/UX-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![UI/UX](https://img.shields.io/badge/UI%2FUX-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Frontend Design](https://img.shields.io/badge/Maquetación-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ---
 
+## 💼 Experiencia
+
+### 🖥️ Desarrolladora Backend & Frontend | Freelance
+- Desarrollo de aplicaciones web con **APIs REST**
+- Gestión de usuarios y roles
+- Procesamiento y transformación de datos mediante **ETL**
+- Despliegue y optimización de aplicaciones en **AWS**
+
+### 👩‍🏫 Profesora particular de programación
+- Enseñanza de lógica de programación
+- Clases personalizadas en **Java** y **C#**
+- Acompañamiento en desarrollo de aplicaciones funcionales
+
+### 🎨 Diseñadora de interfaces | ASAENES
+- Diseño de interfaces **UI/UX**
+- Maquetación frontend
+
+---
+
 ## 📞 Contacto
-- [cite_start]📧 **rojasvillavalentina01@gmail.com** [cite: 39]
-- [cite_start]💼 LinkedIn: [Nicol Rojas](https://www.linkedin.com/in/nicol-rojas) [cite: 39]
+- 📧 **rojasvillavalentina01@gmail.com**
+- 💼 LinkedIn: [Nicol Rojas](https://www.linkedin.com/in/nicol-rojas)
+- 🐙 GitHub: [Valentina-nvrv](https://github.com/Valentina-nvrv)
 
 ---
 
@@ -69,8 +91,7 @@ Enfocada en código limpio, escalabilidad y despliegue en la nube 💻🌷
 ---
 
 ## 📌 Otros
-- [cite_start]📜 Certificación en **Metodología Ágil Scrum** [cite: 66]
-- [cite_start]👨‍🏫 Referencia: **Regino Fernández García** (Gestión Proyectos) [cite: 68]
-- [cite_start]⚡ **Disponibilidad inmediata** [cite: 70]
+- 📜 Certificación en **Metodología Ágil Scrum**
+- ⚡ Disponibilidad inmediata
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
