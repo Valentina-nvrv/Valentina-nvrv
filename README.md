@@ -6,7 +6,7 @@
   </ul>
 </div>
 
-<h2 align="center">☕ Fullstack Developer Junior ☕</h2>
+<h2 align="center">☕ Fullstack Developer ☕</h2>
 
 <p align="center">
 ✨ Bienvenidos a mi espacio en GitHub ✨ <br>
