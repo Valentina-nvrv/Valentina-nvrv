@@ -30,7 +30,7 @@ Experiencia en APIs REST, procesamiento de datos ETL y despliegue en AWS 💻�
 - 🎨 Experiencia en **UI/UX** y maquetación frontend
 - 📚 Inglés técnico
 - ✨ Me caracterizo por mi capacidad de aprendizaje, autogestión e inteligencia emocional
-- 🚀 Actualmente buscando oportunidades como **Backend / Fullstack Developer Junior**
+- 🚀 Actualmente buscando oportunidades como **Backend / Fullstack Developer**
 
 ---
 
